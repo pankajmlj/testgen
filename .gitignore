@@ -1,0 +1,27 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore dataset and preprocessed files
+data/train_preprocessed.json
+data/test_preprocessed.json
+
+# Ignore Hugging Face model outputs
+app/models/testgen_llm/
+logs/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files (macOS & Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore dependencies
+*.egg-info/

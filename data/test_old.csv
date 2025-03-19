@@ -1,0 +1,4 @@
+user_story,test_case
+"As a user, I want to log in so that I can access my dashboard.","Feature: User Login\nScenario: Successful Login\nGiven the user is on the login page\nWhen the user enters valid credentials\nThen the user should be redirected to the dashboard"
+"As a user, I want to reset my password so that I can regain access to my account.","Feature: Password Reset\nScenario: Successful Password Reset\nGiven the user is on the password reset page\nWhen the user enters a valid email\nThen a password reset link should be sent"
+"As an admin, I want to add a new product so that I can update the store catalog.","Feature: Add New Product\nScenario: Successfully Adding a Product\nGiven the admin is on the add product page\nWhen the admin enters valid product details\nThen the product should be added to the store"

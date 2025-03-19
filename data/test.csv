@@ -1,0 +1,501 @@
+user_story,test_case
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"
+"As a user, I want to change my shipping address so that I can receive my order at a new location.","Feature: Change Shipping Address
+Scenario: Updating shipping details
+Given the user is on the order summary page
+When the user edits the shipping address
+Then the new address should be saved for delivery"
+"As an admin, I want to deactivate fraudulent user accounts so that I can prevent unauthorized transactions.","Feature: Account Deactivation
+Scenario: Suspending a fraudulent account
+Given the admin is on the user management dashboard
+When the admin marks an account as fraudulent
+Then the system should suspend the account and notify the user"
+"As a user, I want to view product reviews so that I can make an informed decision.","Feature: Product Reviews
+Scenario: Viewing reviews
+Given the user is on the product page
+When the user scrolls down to the reviews section
+Then the system should display customer reviews"
+"As a user, I want to apply discount coupons so that I can get a better deal.","Feature: Apply Coupons
+Scenario: Successfully applying a discount code
+Given the user is on the checkout page
+When the user enters a valid coupon code
+Then the discount should be applied to the total amount"
+"As a user, I want to download my bank statement so that I can track my expenses.","Feature: Download Bank Statement
+Scenario: Downloading a statement
+Given the user is logged into the banking portal
+When the user selects a month and clicks 'Download'
+Then the system should generate and download the statement"
+"As a user, I want to set up recurring payments so that I can automate my bills.","Feature: Recurring Payments
+Scenario: Setting up an automated payment
+Given the user is on the payments page
+When the user sets up a recurring payment schedule
+Then the system should process the payment automatically on the due date"

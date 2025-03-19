@@ -1,0 +1,401 @@
+user_story,test_case
+"As a user, I want to add items to my cart so that I can purchase them later.","Feature: Add to Cart
+Scenario: Successfully adding an item to the cart
+Given the user is on the product page
+When the user clicks 'Add to Cart'
+Then the item should be added to the cart"
+"As a user, I want to track my order so that I can know the delivery status.","Feature: Order Tracking
+Scenario: Viewing order status
+Given the user is on the order history page
+When the user clicks on an order
+Then the system should display the current status of the order"
+"As an admin, I want to update product prices so that I can reflect market changes.","Feature: Update Product Price
+Scenario: Successfully updating product prices
+Given the admin is logged into the dashboard
+When the admin modifies the price of a product
+Then the updated price should reflect on the product page"
+"As a bank customer, I want to transfer money to another account so that I can pay my bills.","Feature: Bank Transfer
+Scenario: Successful money transfer
+Given the user is on the bank's transfer page
+When the user enters recipient details and confirms transfer
+Then the money should be deducted from the account and credited to the recipient"
+"As a user, I want to check my loan eligibility so that I can apply for a loan.","Feature: Loan Eligibility Check
+Scenario: Checking loan eligibility
+Given the user is logged into the banking portal
+When the user navigates to the 'Loan Eligibility' section and enters details
+Then the system should display whether the user is eligible for a loan"
+"As a user, I want to filter products by price so that I can find items within my budget.","Feature: Product Filtering
+Scenario: Filtering by price
+Given the user is on the product listing page
+When the user selects a price range
+Then the system should only display products within that range"
+"As a user, I want to receive payment notifications so that I can track my transactions.","Feature: Payment Notifications
+Scenario: Receiving a notification for a transaction
+Given the user has enabled notifications
+When a transaction is processed
+Then the user should receive an email and SMS notification"
+"As a merchant, I want to view my sales analytics so that I can understand my business performance.","Feature: Sales Analytics
+Scenario: Viewing sales data
+Given the merchant is logged into the dashboard
+When the merchant navigates to the 'Analytics' section
+Then the system should display sales trends and revenue details"
+"As a user, I want to add items to my cart so that I can purchase them later.","Feature: Add to Cart
+Scenario: Successfully adding an item to the cart
+Given the user is on the product page
+When the user clicks 'Add to Cart'
+Then the item should be added to the cart"
+"As a user, I want to track my order so that I can know the delivery status.","Feature: Order Tracking
+Scenario: Viewing order status
+Given the user is on the order history page
+When the user clicks on an order
+Then the system should display the current status of the order"
+"As an admin, I want to update product prices so that I can reflect market changes.","Feature: Update Product Price
+Scenario: Successfully updating product prices
+Given the admin is logged into the dashboard
+When the admin modifies the price of a product
+Then the updated price should reflect on the product page"
+"As a bank customer, I want to transfer money to another account so that I can pay my bills.","Feature: Bank Transfer
+Scenario: Successful money transfer
+Given the user is on the bank's transfer page
+When the user enters recipient details and confirms transfer
+Then the money should be deducted from the account and credited to the recipient"
+"As a user, I want to check my loan eligibility so that I can apply for a loan.","Feature: Loan Eligibility Check
+Scenario: Checking loan eligibility
+Given the user is logged into the banking portal
+When the user navigates to the 'Loan Eligibility' section and enters details
+Then the system should display whether the user is eligible for a loan"
+"As a user, I want to filter products by price so that I can find items within my budget.","Feature: Product Filtering
+Scenario: Filtering by price
+Given the user is on the product listing page
+When the user selects a price range
+Then the system should only display products within that range"
+"As a user, I want to receive payment notifications so that I can track my transactions.","Feature: Payment Notifications
+Scenario: Receiving a notification for a transaction
+Given the user has enabled notifications
+When a transaction is processed
+Then the user should receive an email and SMS notification"
+"As a merchant, I want to view my sales analytics so that I can understand my business performance.","Feature: Sales Analytics
+Scenario: Viewing sales data
+Given the merchant is logged into the dashboard
+When the merchant navigates to the 'Analytics' section
+Then the system should display sales trends and revenue details"
+"As a user, I want to add items to my cart so that I can purchase them later.","Feature: Add to Cart
+Scenario: Successfully adding an item to the cart
+Given the user is on the product page
+When the user clicks 'Add to Cart'
+Then the item should be added to the cart"
+"As a user, I want to track my order so that I can know the delivery status.","Feature: Order Tracking
+Scenario: Viewing order status
+Given the user is on the order history page
+When the user clicks on an order
+Then the system should display the current status of the order"
+"As an admin, I want to update product prices so that I can reflect market changes.","Feature: Update Product Price
+Scenario: Successfully updating product prices
+Given the admin is logged into the dashboard
+When the admin modifies the price of a product
+Then the updated price should reflect on the product page"
+"As a bank customer, I want to transfer money to another account so that I can pay my bills.","Feature: Bank Transfer
+Scenario: Successful money transfer
+Given the user is on the bank's transfer page
+When the user enters recipient details and confirms transfer
+Then the money should be deducted from the account and credited to the recipient"
+"As a user, I want to check my loan eligibility so that I can apply for a loan.","Feature: Loan Eligibility Check
+Scenario: Checking loan eligibility
+Given the user is logged into the banking portal
+When the user navigates to the 'Loan Eligibility' section and enters details
+Then the system should display whether the user is eligible for a loan"
+"As a user, I want to filter products by price so that I can find items within my budget.","Feature: Product Filtering
+Scenario: Filtering by price
+Given the user is on the product listing page
+When the user selects a price range
+Then the system should only display products within that range"
+"As a user, I want to receive payment notifications so that I can track my transactions.","Feature: Payment Notifications
+Scenario: Receiving a notification for a transaction
+Given the user has enabled notifications
+When a transaction is processed
+Then the user should receive an email and SMS notification"
+"As a merchant, I want to view my sales analytics so that I can understand my business performance.","Feature: Sales Analytics
+Scenario: Viewing sales data
+Given the merchant is logged into the dashboard
+When the merchant navigates to the 'Analytics' section
+Then the system should display sales trends and revenue details"
+"As a user, I want to add items to my cart so that I can purchase them later.","Feature: Add to Cart
+Scenario: Successfully adding an item to the cart
+Given the user is on the product page
+When the user clicks 'Add to Cart'
+Then the item should be added to the cart"
+"As a user, I want to track my order so that I can know the delivery status.","Feature: Order Tracking
+Scenario: Viewing order status
+Given the user is on the order history page
+When the user clicks on an order
+Then the system should display the current status of the order"
+"As an admin, I want to update product prices so that I can reflect market changes.","Feature: Update Product Price
+Scenario: Successfully updating product prices
+Given the admin is logged into the dashboard
+When the admin modifies the price of a product
+Then the updated price should reflect on the product page"
+"As a bank customer, I want to transfer money to another account so that I can pay my bills.","Feature: Bank Transfer
+Scenario: Successful money transfer
+Given the user is on the bank's transfer page
+When the user enters recipient details and confirms transfer
+Then the money should be deducted from the account and credited to the recipient"
+"As a user, I want to check my loan eligibility so that I can apply for a loan.","Feature: Loan Eligibility Check
+Scenario: Checking loan eligibility
+Given the user is logged into the banking portal
+When the user navigates to the 'Loan Eligibility' section and enters details
+Then the system should display whether the user is eligible for a loan"
+"As a user, I want to filter products by price so that I can find items within my budget.","Feature: Product Filtering
+Scenario: Filtering by price
+Given the user is on the product listing page
+When the user selects a price range
+Then the system should only display products within that range"
+"As a user, I want to receive payment notifications so that I can track my transactions.","Feature: Payment Notifications
+Scenario: Receiving a notification for a transaction
+Given the user has enabled notifications
+When a transaction is processed
+Then the user should receive an email and SMS notification"
+"As a merchant, I want to view my sales analytics so that I can understand my business performance.","Feature: Sales Analytics
+Scenario: Viewing sales data
+Given the merchant is logged into the dashboard
+When the merchant navigates to the 'Analytics' section
+Then the system should display sales trends and revenue details"
+"As a user, I want to add items to my cart so that I can purchase them later.","Feature: Add to Cart
+Scenario: Successfully adding an item to the cart
+Given the user is on the product page
+When the user clicks 'Add to Cart'
+Then the item should be added to the cart"
+"As a user, I want to track my order so that I can know the delivery status.","Feature: Order Tracking
+Scenario: Viewing order status
+Given the user is on the order history page
+When the user clicks on an order
+Then the system should display the current status of the order"
+"As an admin, I want to update product prices so that I can reflect market changes.","Feature: Update Product Price
+Scenario: Successfully updating product prices
+Given the admin is logged into the dashboard
+When the admin modifies the price of a product
+Then the updated price should reflect on the product page"
+"As a bank customer, I want to transfer money to another account so that I can pay my bills.","Feature: Bank Transfer
+Scenario: Successful money transfer
+Given the user is on the bank's transfer page
+When the user enters recipient details and confirms transfer
+Then the money should be deducted from the account and credited to the recipient"
+"As a user, I want to check my loan eligibility so that I can apply for a loan.","Feature: Loan Eligibility Check
+Scenario: Checking loan eligibility
+Given the user is logged into the banking portal
+When the user navigates to the 'Loan Eligibility' section and enters details
+Then the system should display whether the user is eligible for a loan"
+"As a user, I want to filter products by price so that I can find items within my budget.","Feature: Product Filtering
+Scenario: Filtering by price
+Given the user is on the product listing page
+When the user selects a price range
+Then the system should only display products within that range"
+"As a user, I want to receive payment notifications so that I can track my transactions.","Feature: Payment Notifications
+Scenario: Receiving a notification for a transaction
+Given the user has enabled notifications
+When a transaction is processed
+Then the user should receive an email and SMS notification"
+"As a merchant, I want to view my sales analytics so that I can understand my business performance.","Feature: Sales Analytics
+Scenario: Viewing sales data
+Given the merchant is logged into the dashboard
+When the merchant navigates to the 'Analytics' section
+Then the system should display sales trends and revenue details"
+"As a user, I want to add items to my cart so that I can purchase them later.","Feature: Add to Cart
+Scenario: Successfully adding an item to the cart
+Given the user is on the product page
+When the user clicks 'Add to Cart'
+Then the item should be added to the cart"
+"As a user, I want to track my order so that I can know the delivery status.","Feature: Order Tracking
+Scenario: Viewing order status
+Given the user is on the order history page
+When the user clicks on an order
+Then the system should display the current status of the order"
+"As an admin, I want to update product prices so that I can reflect market changes.","Feature: Update Product Price
+Scenario: Successfully updating product prices
+Given the admin is logged into the dashboard
+When the admin modifies the price of a product
+Then the updated price should reflect on the product page"
+"As a bank customer, I want to transfer money to another account so that I can pay my bills.","Feature: Bank Transfer
+Scenario: Successful money transfer
+Given the user is on the bank's transfer page
+When the user enters recipient details and confirms transfer
+Then the money should be deducted from the account and credited to the recipient"
+"As a user, I want to check my loan eligibility so that I can apply for a loan.","Feature: Loan Eligibility Check
+Scenario: Checking loan eligibility
+Given the user is logged into the banking portal
+When the user navigates to the 'Loan Eligibility' section and enters details
+Then the system should display whether the user is eligible for a loan"
+"As a user, I want to filter products by price so that I can find items within my budget.","Feature: Product Filtering
+Scenario: Filtering by price
+Given the user is on the product listing page
+When the user selects a price range
+Then the system should only display products within that range"
+"As a user, I want to receive payment notifications so that I can track my transactions.","Feature: Payment Notifications
+Scenario: Receiving a notification for a transaction
+Given the user has enabled notifications
+When a transaction is processed
+Then the user should receive an email and SMS notification"
+"As a merchant, I want to view my sales analytics so that I can understand my business performance.","Feature: Sales Analytics
+Scenario: Viewing sales data
+Given the merchant is logged into the dashboard
+When the merchant navigates to the 'Analytics' section
+Then the system should display sales trends and revenue details"
+"As a user, I want to add items to my cart so that I can purchase them later.","Feature: Add to Cart
+Scenario: Successfully adding an item to the cart
+Given the user is on the product page
+When the user clicks 'Add to Cart'
+Then the item should be added to the cart"
+"As a user, I want to track my order so that I can know the delivery status.","Feature: Order Tracking
+Scenario: Viewing order status
+Given the user is on the order history page
+When the user clicks on an order
+Then the system should display the current status of the order"
+"As an admin, I want to update product prices so that I can reflect market changes.","Feature: Update Product Price
+Scenario: Successfully updating product prices
+Given the admin is logged into the dashboard
+When the admin modifies the price of a product
+Then the updated price should reflect on the product page"
+"As a bank customer, I want to transfer money to another account so that I can pay my bills.","Feature: Bank Transfer
+Scenario: Successful money transfer
+Given the user is on the bank's transfer page
+When the user enters recipient details and confirms transfer
+Then the money should be deducted from the account and credited to the recipient"
+"As a user, I want to check my loan eligibility so that I can apply for a loan.","Feature: Loan Eligibility Check
+Scenario: Checking loan eligibility
+Given the user is logged into the banking portal
+When the user navigates to the 'Loan Eligibility' section and enters details
+Then the system should display whether the user is eligible for a loan"
+"As a user, I want to filter products by price so that I can find items within my budget.","Feature: Product Filtering
+Scenario: Filtering by price
+Given the user is on the product listing page
+When the user selects a price range
+Then the system should only display products within that range"
+"As a user, I want to receive payment notifications so that I can track my transactions.","Feature: Payment Notifications
+Scenario: Receiving a notification for a transaction
+Given the user has enabled notifications
+When a transaction is processed
+Then the user should receive an email and SMS notification"
+"As a merchant, I want to view my sales analytics so that I can understand my business performance.","Feature: Sales Analytics
+Scenario: Viewing sales data
+Given the merchant is logged into the dashboard
+When the merchant navigates to the 'Analytics' section
+Then the system should display sales trends and revenue details"
+"As a user, I want to add items to my cart so that I can purchase them later.","Feature: Add to Cart
+Scenario: Successfully adding an item to the cart
+Given the user is on the product page
+When the user clicks 'Add to Cart'
+Then the item should be added to the cart"
+"As a user, I want to track my order so that I can know the delivery status.","Feature: Order Tracking
+Scenario: Viewing order status
+Given the user is on the order history page
+When the user clicks on an order
+Then the system should display the current status of the order"
+"As an admin, I want to update product prices so that I can reflect market changes.","Feature: Update Product Price
+Scenario: Successfully updating product prices
+Given the admin is logged into the dashboard
+When the admin modifies the price of a product
+Then the updated price should reflect on the product page"
+"As a bank customer, I want to transfer money to another account so that I can pay my bills.","Feature: Bank Transfer
+Scenario: Successful money transfer
+Given the user is on the bank's transfer page
+When the user enters recipient details and confirms transfer
+Then the money should be deducted from the account and credited to the recipient"
+"As a user, I want to check my loan eligibility so that I can apply for a loan.","Feature: Loan Eligibility Check
+Scenario: Checking loan eligibility
+Given the user is logged into the banking portal
+When the user navigates to the 'Loan Eligibility' section and enters details
+Then the system should display whether the user is eligible for a loan"
+"As a user, I want to filter products by price so that I can find items within my budget.","Feature: Product Filtering
+Scenario: Filtering by price
+Given the user is on the product listing page
+When the user selects a price range
+Then the system should only display products within that range"
+"As a user, I want to receive payment notifications so that I can track my transactions.","Feature: Payment Notifications
+Scenario: Receiving a notification for a transaction
+Given the user has enabled notifications
+When a transaction is processed
+Then the user should receive an email and SMS notification"
+"As a merchant, I want to view my sales analytics so that I can understand my business performance.","Feature: Sales Analytics
+Scenario: Viewing sales data
+Given the merchant is logged into the dashboard
+When the merchant navigates to the 'Analytics' section
+Then the system should display sales trends and revenue details"
+"As a user, I want to add items to my cart so that I can purchase them later.","Feature: Add to Cart
+Scenario: Successfully adding an item to the cart
+Given the user is on the product page
+When the user clicks 'Add to Cart'
+Then the item should be added to the cart"
+"As a user, I want to track my order so that I can know the delivery status.","Feature: Order Tracking
+Scenario: Viewing order status
+Given the user is on the order history page
+When the user clicks on an order
+Then the system should display the current status of the order"
+"As an admin, I want to update product prices so that I can reflect market changes.","Feature: Update Product Price
+Scenario: Successfully updating product prices
+Given the admin is logged into the dashboard
+When the admin modifies the price of a product
+Then the updated price should reflect on the product page"
+"As a bank customer, I want to transfer money to another account so that I can pay my bills.","Feature: Bank Transfer
+Scenario: Successful money transfer
+Given the user is on the bank's transfer page
+When the user enters recipient details and confirms transfer
+Then the money should be deducted from the account and credited to the recipient"
+"As a user, I want to check my loan eligibility so that I can apply for a loan.","Feature: Loan Eligibility Check
+Scenario: Checking loan eligibility
+Given the user is logged into the banking portal
+When the user navigates to the 'Loan Eligibility' section and enters details
+Then the system should display whether the user is eligible for a loan"
+"As a user, I want to filter products by price so that I can find items within my budget.","Feature: Product Filtering
+Scenario: Filtering by price
+Given the user is on the product listing page
+When the user selects a price range
+Then the system should only display products within that range"
+"As a user, I want to receive payment notifications so that I can track my transactions.","Feature: Payment Notifications
+Scenario: Receiving a notification for a transaction
+Given the user has enabled notifications
+When a transaction is processed
+Then the user should receive an email and SMS notification"
+"As a merchant, I want to view my sales analytics so that I can understand my business performance.","Feature: Sales Analytics
+Scenario: Viewing sales data
+Given the merchant is logged into the dashboard
+When the merchant navigates to the 'Analytics' section
+Then the system should display sales trends and revenue details"
+"As a user, I want to add items to my cart so that I can purchase them later.","Feature: Add to Cart
+Scenario: Successfully adding an item to the cart
+Given the user is on the product page
+When the user clicks 'Add to Cart'
+Then the item should be added to the cart"
+"As a user, I want to track my order so that I can know the delivery status.","Feature: Order Tracking
+Scenario: Viewing order status
+Given the user is on the order history page
+When the user clicks on an order
+Then the system should display the current status of the order"
+"As an admin, I want to update product prices so that I can reflect market changes.","Feature: Update Product Price
+Scenario: Successfully updating product prices
+Given the admin is logged into the dashboard
+When the admin modifies the price of a product
+Then the updated price should reflect on the product page"
+"As a bank customer, I want to transfer money to another account so that I can pay my bills.","Feature: Bank Transfer
+Scenario: Successful money transfer
+Given the user is on the bank's transfer page
+When the user enters recipient details and confirms transfer
+Then the money should be deducted from the account and credited to the recipient"
+"As a user, I want to check my loan eligibility so that I can apply for a loan.","Feature: Loan Eligibility Check
+Scenario: Checking loan eligibility
+Given the user is logged into the banking portal
+When the user navigates to the 'Loan Eligibility' section and enters details
+Then the system should display whether the user is eligible for a loan"
+"As a user, I want to filter products by price so that I can find items within my budget.","Feature: Product Filtering
+Scenario: Filtering by price
+Given the user is on the product listing page
+When the user selects a price range
+Then the system should only display products within that range"
+"As a user, I want to receive payment notifications so that I can track my transactions.","Feature: Payment Notifications
+Scenario: Receiving a notification for a transaction
+Given the user has enabled notifications
+When a transaction is processed
+Then the user should receive an email and SMS notification"
+"As a merchant, I want to view my sales analytics so that I can understand my business performance.","Feature: Sales Analytics
+Scenario: Viewing sales data
+Given the merchant is logged into the dashboard
+When the merchant navigates to the 'Analytics' section
+Then the system should display sales trends and revenue details"

@@ -1,12 +1,12 @@
-# TestGen-LLM
+# JiraTestGen
 
-TestGen-LLM is an AI-driven test case generator that converts Jira user stories into structured BDD (Gherkin) test cases.
+JiraTestGen is an AI-driven test case generator that converts Jira user stories into structured BDD (Gherkin) test cases.
 
 
-# TestGen-LLM: Automated Test Case Generation
+# JiraTestGen: Automated Test Case Generation
 
 ## Overview
-TestGen-LLM is an AI-powered system that generates test cases from user stories. It supports:
+JiraTestGen is an AI-powered system that generates test cases from user stories. It supports:
 - Generating test cases from direct user input.
 - Fetching Jira issue descriptions and converting them into test cases.
 - Posting generated test cases as Jira comments.
@@ -83,7 +83,7 @@ curl -X POST "http://127.0.0.1:8000/generate-with-jira" \
 
 ## 📂 Project Structure
 ```
-TestGen-LLM/
+JiraTestGen/
 │── app/                            # FastAPI Service
 │   ├── models/                    # Trained model directory
 │   ├── main.py                     # API Endpoint for inference
@@ -106,8 +106,8 @@ TestGen-LLM/
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-repo/testgen-llm.git
-   cd testgen-llm
+   git clone https://github.com/pankajmlj/testgen.git
+   cd testgen
    ```
 
 2. **Install dependencies:**

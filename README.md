@@ -1,12 +1,7 @@
-# JiraTestGen
-
-JiraTestGen is an AI-driven test case generator that converts Jira user stories into structured BDD (Gherkin) test cases.
-
-
-# JiraTestGen: Automated Test Case Generation
+# JiraTestGen: Automated Test Cases Generation from Jira Stories
 
 ## Overview
-JiraTestGen is an AI-powered system that generates test cases from user stories. It supports:
+JiraTestGen is an AI-powered system that generates test cases from user stories. It converts Jira user stories into structured BDD (Gherkin) test cases. It supports:
 - Generating test cases from direct user input.
 - Fetching Jira issue descriptions and converting them into test cases.
 - Posting generated test cases as Jira comments.
